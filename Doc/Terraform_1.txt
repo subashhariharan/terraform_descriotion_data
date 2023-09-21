@@ -1,1 +1,8 @@
 
+I have a web application. UI is build with react, backend is build with node js.
+
+I want ui to be deployed in AWS S3 bucked with cloud front. backend should be deployed as ECS clusters.
+
+I use aws cognito for user login/access management.
+
+I use dynamo db as database.
